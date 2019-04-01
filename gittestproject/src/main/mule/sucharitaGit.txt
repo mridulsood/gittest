@@ -2,7 +2,6 @@ mulesoft
 brillio
 sucharita123
 mridul-abcdefghijkl
-shalini
 amar
 param trivedi
 neil thakar 1
